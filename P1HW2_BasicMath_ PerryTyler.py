@@ -1,0 +1,6 @@
+user_num = int(input())
+user_num2 = int(input())
+print(user_num)
+print(user_num2)
+print(user_num + user_num2)
+print(user_num * user_num2)
